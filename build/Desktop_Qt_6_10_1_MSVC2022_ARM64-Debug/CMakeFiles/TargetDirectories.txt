@@ -1,0 +1,8 @@
+C:/Users/celin/Documents/TP2_QT_2/build/Desktop_Qt_6_10_1_MSVC2022_ARM64-Debug/CMakeFiles/TP2_QT_2.dir
+C:/Users/celin/Documents/TP2_QT_2/build/Desktop_Qt_6_10_1_MSVC2022_ARM64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/celin/Documents/TP2_QT_2/build/Desktop_Qt_6_10_1_MSVC2022_ARM64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/celin/Documents/TP2_QT_2/build/Desktop_Qt_6_10_1_MSVC2022_ARM64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/celin/Documents/TP2_QT_2/build/Desktop_Qt_6_10_1_MSVC2022_ARM64-Debug/CMakeFiles/install.dir
+C:/Users/celin/Documents/TP2_QT_2/build/Desktop_Qt_6_10_1_MSVC2022_ARM64-Debug/CMakeFiles/install/local.dir
+C:/Users/celin/Documents/TP2_QT_2/build/Desktop_Qt_6_10_1_MSVC2022_ARM64-Debug/CMakeFiles/TP2_QT_2_autogen_timestamp_deps.dir
+C:/Users/celin/Documents/TP2_QT_2/build/Desktop_Qt_6_10_1_MSVC2022_ARM64-Debug/CMakeFiles/TP2_QT_2_autogen.dir
