@@ -41,6 +41,15 @@ void MainWindow::on_pushButton_clicked()
     QListWidgetItem *item = ui->ListeDesCodes->currentItem();
     // Copie le code supprimé dans la zone de saisie
     ui->Code->setText(item->text());
+    // Fenêtre de confirmation
+    QMessageBox::StandardButton reply;
+    reply = QMessageBox::question(this,
+                                  "Confirmation",
+                                  "Voulez-vous vraiment supprimer ce code ?",
+                                  QMessageBox::Yes | QMessageBox::No);
+
+    if (reply == QMessageBox::No)
+        return; // l'utilisateur annule la suppression
 
     delete item;  // supprime le code
 }
